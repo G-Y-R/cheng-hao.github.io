@@ -157,8 +157,8 @@ ul, ol {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/top.jpg) no-repeat center center;
-	background-color: #000;
+	background: url(../img/contact-bg.jpg) no-repeat center center;
+	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -744,9 +744,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	font-weight: 600;
 }
 .intro .intro-body .intro-text {
-	float: left;
+	flo at: left;
 	text-align: center;
-	max-width: 75%;
+	max-width: 100%;
 }
 .intro .intro-body .intro-text p {
 	font-family: 'Lato', sans-serif;
