@@ -126,8 +126,8 @@ ul, ol {
 	color: #fff;
 }
 .btn-default {
-	color: #76818d;
-	background-color: transparent;
+	color: #fff;
+	background-color:#666;
 	border-color: #76818d;
 	margin: 0 10px;
 	font-size: 16px;
